@@ -24,7 +24,7 @@ namespace debugws2
       Int32.TryParse(val, NumberStyles.HexNumber, CultureInfo.InvariantCulture, out int value);
 
       return value;
-    }
+    } //1249975000
 
     static void Main(string[] args)
     {
